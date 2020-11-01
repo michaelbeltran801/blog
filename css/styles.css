@@ -1,6 +1,21 @@
 body
 {
-  color: chocolate;
+  color:aqua;
   text-align: center;
   font-family:"Arial" ;
+  margin: 0;
+  padding: 0;
+  font-size: 16px;
+}
+#container
+{
+    width: 70%;
+    padding: 1cm;
+    text-align: left;
+    border: 1px solid #ddd1dd;
+}
+#container h1
+{
+    font-size: 20px;
+
 }
